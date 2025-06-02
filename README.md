@@ -7,15 +7,14 @@
 </div>
 <div>
   <a href="https://github.com/beatrizparedes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizparedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizparedes&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=beatrizparedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizparedes&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
 <table>
   <tr>
     <td>
-
 <h3>💡 Sobre mim</h3>
 
 Designer de ideias, apaixonada por tecnologia e movida por desafios.  
@@ -25,11 +24,10 @@ A vida é feita de experiências — e eu adoro cada uma delas.
 
 </td>
     <td>
-      <img src="bializando.gif" alt="GIF criativo" width="250px">
+      <img src="bializando.gif" alt="GIF criativo" width="150px">
     </td>
   </tr>
 </table>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
