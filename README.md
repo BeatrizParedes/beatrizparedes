@@ -8,7 +8,7 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/beatrizparedes">
     <img  width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizparedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img  width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizparedes&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"/>
+    <img  width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizparedes&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"/>
   </a>
 </div>
 
